@@ -1,0 +1,22 @@
+{
+  "name": "ccxt-binance",
+  "version": "1.0.0",
+  "description": "Crypto stock exchange library",
+  "main": "index.js",
+  "type": "module",
+  "dependencies": {
+    "ansicolor": "^1.1.93",
+    "as-table": "^1.0.55",
+    "asciichart": "^1.5.25",
+    "ccxt": "^1.50.68",
+    "keys": "^0.1.2",
+    "ololog": "^1.1.175",
+    "pg": "^8.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
